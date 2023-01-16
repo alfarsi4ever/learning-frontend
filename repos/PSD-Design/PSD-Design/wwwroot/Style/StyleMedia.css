@@ -1,0 +1,62 @@
+﻿body {
+}
+
+@media screen and (max-width:530px) {
+
+
+
+    body{
+        background:green;
+    }
+
+    .menu {
+        display: block !important;
+        padding: 0;
+    }
+
+        .menu li {
+            text-align: center;
+        }
+
+            .menu li a:hover {
+                background: #7d9097;
+                color: black;
+                width: 100%;
+            }
+
+    .welcome {
+        left: 10%;
+        top: 400px;
+    }
+
+    .teamleader {
+        padding: 150px 10px;
+    }
+
+        .teamleader p {
+            width: 100%;
+            text-align: justify;
+        }
+
+    .players {
+        display: block;
+    }
+
+        .players .hugo {
+            margin: 0px;
+        }
+
+    .data {
+        display: block;
+    }
+
+        .data li {
+            margin-bottom: 30px;
+        }
+    .contact p {
+        padding: 10px;
+        text-align: center;
+    }
+
+}
+

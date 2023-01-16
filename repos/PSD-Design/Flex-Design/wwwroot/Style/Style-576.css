@@ -1,0 +1,43 @@
+﻿@media screen and (max-width:576px) {
+    
+    #logo, #menu {
+        flex: 100%;
+    }
+
+    nav, #menu {
+        background: #D9A282;
+        flex-direction: column;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    #bg-text, #bg {
+        margin: 0;
+        flex: 100%;
+        padding: 100px;
+        min-height: 300px;
+    }
+
+    .test-image {
+        flex: 98% !important;
+    }
+
+    .gallery {
+        padding: 5px;
+        
+    }
+        .gallery .test-image {
+            flex: 48% !important;
+        }
+
+    .cards div {
+        flex: 100%;
+        
+    }
+    .user-group .user {
+        flex: 100%;
+    }
+
+}

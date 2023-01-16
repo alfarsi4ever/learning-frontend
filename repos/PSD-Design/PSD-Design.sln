@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSD-Design", "PSD-Design\PSD-Design.csproj", "{17CF033B-66FE-4B00-9635-24F98268EA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex-Design", "Flex-Design\Flex-Design.csproj", "{8B7B7C86-EB13-4E4D-A2E3-F159F363687C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17CF033B-66FE-4B00-9635-24F98268EA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CF033B-66FE-4B00-9635-24F98268EA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CF033B-66FE-4B00-9635-24F98268EA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CF033B-66FE-4B00-9635-24F98268EA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7B7C86-EB13-4E4D-A2E3-F159F363687C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7B7C86-EB13-4E4D-A2E3-F159F363687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7B7C86-EB13-4E4D-A2E3-F159F363687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7B7C86-EB13-4E4D-A2E3-F159F363687C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D467C731-BAA0-4CC3-987A-B7DC6630D4B5}
+	EndGlobalSection
+EndGlobal

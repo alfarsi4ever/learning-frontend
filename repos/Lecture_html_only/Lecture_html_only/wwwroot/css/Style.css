@@ -1,0 +1,74 @@
+﻿body {
+    margin: 0px;
+}
+li:hover {
+    box-shadow: 5px 5px 5px #888888;
+}
+.fa-chevron-down2 {
+    color: white;
+}
+.main {
+    margin: 100px auto;
+    width: 960px;
+}
+
+.main > li {
+    display: inline;
+    background: #2c2c2c;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.about {
+    position: relative;
+}
+
+.sub-menu {
+    position: absolute;
+    background: #b6ff00;
+    left: 0;
+    top: 42px;
+    list-style: none;
+    padding: 0px;
+    display: none;
+}
+.sub-sub-menu {
+    position: absolute;
+    background: #ff0000;
+    left: 100%;
+    top: 50%;
+    list-style: none;
+    padding: 0px;
+    display: none;
+}
+
+    .sub-sub-menu li {
+        font-size: 18px;
+        padding: 10px;
+        width: 150px;
+        text-align: center;
+    }
+
+.sub-menu li {
+    font-size: 18px;
+    padding: 10px;
+    width: 150px;
+    text-align: center;
+}
+
+.about:hover {
+    box-shadow: 5px 5px 5px #888888;
+}
+.about:hover > .sub-menu {
+    display: block;
+    cursor: pointer;
+    
+}
+.about-2:hover {
+    
+}
+.about-2:hover > .sub-sub-menu {
+    display: block;
+    cursor: pointer;
+}

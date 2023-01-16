@@ -1,0 +1,55 @@
+﻿body {
+}
+.cards div i  {
+    border-radius:3px;
+    transition: all 0.5s ease-in;
+}
+
+.cards div:hover i {
+    transform: rotate(360deg);
+    transform:scale(1.3,1.3);
+    
+        opacity:1;
+        
+}
+
+.cards div {
+    transition: all 0.5s ease;
+    border-radius: 6px;
+    
+    transform:translate(0px);
+
+    
+    
+    animation-name: effect-test;
+    animation-duration:1s;
+    animation-delay:1s;
+    animation-iteration-count:infinite; /* Repeated effect can be use to welcome page*/
+    animation-timing-function:ease;
+    animation-fill-mode:backwards;
+    animation-direction:alternate-reverse;
+
+/*All this propreties are founded in transition*/
+}
+
+    .cards div:hover {
+        z-index: 999;
+        box-shadow: 5px 5px 5px blue;
+        transform: scale(1.7,1.7);
+        transform:translate(0px,-20px);
+    }
+
+@keyframes effect-test {
+    from {
+        background: white;
+    }
+
+    to {
+        background: #c3e7fc;
+    }
+}
+.hu__hu__ { animation: hu__hu__ infinite 2s ease-in-out }
+@keyframes hu__hu__ {
+    50% { transform: translateY(-30px) }
+}
+

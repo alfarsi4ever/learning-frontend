@@ -1,0 +1,33 @@
+﻿@media screen and (max-width:992px) {
+    /*tablet medium device*/
+    .container {
+        flex-direction: column;
+    }
+
+    #bg-text, #bg {
+        margin: 10px;
+        flex: 100%;
+        padding: 100px;
+        min-height: 300px;
+    }
+
+    .gallery {
+        padding: 10px;
+        
+    }
+        .gallery .test-image {
+            flex: 48% !important;
+        }
+
+        .big-title {
+            flex-direction: column;
+            padding: 5px;
+        }
+    .left {
+        padding:100px;
+        flex: 100% !important;
+    }
+    .right {
+        flex: 100% !important;
+    }
+}

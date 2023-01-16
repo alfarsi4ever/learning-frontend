@@ -1,0 +1,114 @@
+﻿:root {
+    --main-color: -webkit-linear-gradient(left top, #0064e6,#00e5ad) no-repeat;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--main-color); /*for Chrome and Edge*/
+    background: -moz-linear-gradient(left top, #0064e6,#00e5ad) no-repeat; /*for firefox*/
+    /*background: radial-gradient(#0064e6,#00e5ad) no-repeat;*/
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.icon {
+    color: grey;
+}
+
+    .icon:hover {
+        color: black;
+        border: 1px solid black;
+    }
+
+.block {
+    width: 380px;
+    margin: 90px auto;
+    padding: 60px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #1F5E55;
+    
+    position:relative;
+}
+span {
+    position: absolute;
+    left: 90%;
+    top: 17px;
+    font-size:22px;
+    
+}
+
+*{
+    box-sizing: border-box;
+}
+
+div h2 {
+    color: #1765CA;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-top: 38px;
+    
+    
+}
+
+
+
+.register {
+    
+    
+    background: white;
+    margin-bottom: 26px;
+    padding: 0px;
+    
+}
+
+input::placeholder { /* Edge */
+    color: #686868;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+    padding-left:0;
+}
+
+
+
+.register input {
+    background:white;
+    border: none;
+    border-bottom:2px solid green;
+    outline: none;
+    line-height: 36px;
+    text-indent: 10px;
+    width: 100%;
+}
+.chk-box  {
+   
+    text-align:left;
+}
+    .chk-box input {
+        border-color: #0000FF;
+    }
+button {
+    margin-top: 30px;
+    background: var(--main-color);
+    width: 220px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+}
+
+    button:hover {
+        background: #000000;
+        cursor: pointer;
+    }
+p a {
+    list-style: none;
+    text-decoration: none;
+    color: #1765CA;
+}

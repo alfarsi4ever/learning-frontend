@@ -1,0 +1,103 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: #3AAF9F;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.icon {
+    color: grey;
+}
+
+    .icon:hover {
+        color: black;
+        border: 1px solid black;
+    }
+
+.block {
+    width: 480px;
+    margin: 90px auto;
+    padding: 60px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #1F5E55;
+}
+
+form {
+    box-sizing: border-box;
+}
+
+div h2 {
+    color: #47B0A1;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.social {
+    margin-bottom: 30px;
+}
+
+    .social i {
+        border: 1px solid #EEEEEE;
+        width: 45px;
+        height: 45px;
+        padding: 12px;
+        border-radius: 50%;
+        font-size: 21px;
+        margin-left: 7px;
+        margin-right: 7px;
+    }
+
+.reg-icon {
+    left: 10px;
+    top: 3px;
+    background-color: #d1d1d1;
+}
+
+.register {
+    background: #EEEEEE;
+    margin-bottom: 10px;
+    padding: 12px;
+}
+
+input::placeholder { /* Edge */
+    color: #686868;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+
+.register i {
+    background-color: #EEEEEE;
+}
+
+.register input {
+    background: #EEEEEE;
+    border: none;
+    outline: none;
+    height: 36px;
+    text-indent: 10px;
+    width: 310px;
+}
+
+button {
+    margin-top: 30px;
+    background-color: #3aaf9f;
+    width: 250px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+}
+
+    button:hover {
+        background: #000000;
+        cursor: pointer;
+    }

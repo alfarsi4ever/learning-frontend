@@ -1,0 +1,36 @@
+﻿body {
+}
+
+.carousel-item img {
+    height: 1080px;
+}
+
+@media screen and (max-width: 532px) {
+    .carousel-item img {
+        width: 480px;
+        height: 270px;
+    }
+}
+
+div > i {
+    font-size: 72px;
+    text-shadow: 4px 4px 11px #000000;
+}
+
+.my-image {
+    background:url('../Images/bYTWbYw.jpeg') no-repeat;
+    
+    height:225px;
+
+    background-size:cover;
+    color:#ffffff;
+    padding-top:95px;
+    font-size:17px;
+}
+
+.py-5 a {
+    color: white;
+}
+.Alarimi a{
+    color:brown;
+}

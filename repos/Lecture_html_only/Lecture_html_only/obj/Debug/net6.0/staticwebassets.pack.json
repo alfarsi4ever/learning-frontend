@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\Register 2.html",
+      "PackagePath": "staticwebassets\\Register 2.html"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\Register.html",
+      "PackagePath": "staticwebassets\\Register.html"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\Style_register.css",
+      "PackagePath": "staticwebassets\\css\\Style_register.css"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\Style_register2.css",
+      "PackagePath": "staticwebassets\\css\\Style_register2.css"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\all.css",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\fontawsome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\css\\fontawsome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Lecture_html_only\\Lecture_html_only\\wwwroot\\menu.html",
+      "PackagePath": "staticwebassets\\menu.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Lecture_html_only.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Lecture_html_only.props",
+      "PackagePath": "build\\Lecture_html_only.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Lecture_html_only.props",
+      "PackagePath": "buildMultiTargeting\\Lecture_html_only.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Lecture_html_only.props",
+      "PackagePath": "buildTransitive\\Lecture_html_only.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
