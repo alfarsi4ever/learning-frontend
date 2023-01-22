@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConstructLandingPage_project.props" />
+</Project>

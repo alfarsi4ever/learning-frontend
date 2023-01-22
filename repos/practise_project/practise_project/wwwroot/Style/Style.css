@@ -1,0 +1,62 @@
+﻿body {
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.contact-header {
+    background: #2d3e50;
+    height: 60px;
+}
+
+    .contact-header ul {
+        list-style-type: none;
+    }
+
+.fa-envelope {
+    color: #ffc000;
+    padding-top: 21px
+}
+
+.title-color {
+    color: #ffc000;
+}
+
+.navi {
+    min-height: 95px
+}
+
+.nav-link {
+    color: #252c30;
+    background: black;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-weight: bold;
+}
+
+    ul li:first-child a {
+        color: #ffc000;
+    }
+.front {
+    min-height: 810px;
+    background: url('../image/repace.png') no-repeat;
+    background-size: cover;
+    margin-top: auto;
+}
+
+    
+
+h1 {
+    color: #ffc000;
+    font-size: 72px
+}
+.h1 {
+    font-size: 72px
+}
+.chevron {
+    font-size: 42px;
+    color: #ffc000;
+    margin-top:25%;
+}
