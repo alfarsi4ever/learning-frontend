@@ -1,0 +1,46 @@
+[ 
+  {
+    "id": 343,
+    "title": "The Pecos Kid",
+    "desc": "talking about kid killer",
+    "price": "4 OMR",
+    "pic": "books/1.jfif"
+  },
+  {
+    "id": 344,
+    "title": "fatatni Sala",
+    "desc": "talking about missed pray",
+    "price": "5 OMR",
+    "pic": "books/2.jfif"
+  },
+  {
+    "id": 345,
+    "title": "Masked Rider Westren",
+    "desc": "talking about a rider on the west",
+    "price": "6 OMR",
+    "pic": "books/3.jpg"
+  },
+  {
+    "id": 346,
+    "title": "gone with the wind",
+    "desc": "talking about going wind",
+    "price": "7 OMR",
+    "pic": "books/4.jfif"
+  },
+  {
+    "id": 347,
+    "title": "pestachio theroy",
+    "desc": "talking about missed pray",
+    "price": "8 OMR",
+    "pic": "books/5.jfif"
+  },
+  {
+    "id": 348,
+    "title": "la-kanood",
+    "desc": "talking about knoot deinkah",
+    "price": "8 OMR",
+    "pic": "books/5.jfif"
+  }
+
+
+]

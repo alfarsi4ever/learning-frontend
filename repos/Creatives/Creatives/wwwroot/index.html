@@ -14,13 +14,12 @@
 <body class="bg-black">
     <div class="div-dark">
         <div class="container">
-            <header class="d-flex flex-wrap align-items-center justify-content-center  mb-4 border-bottom">
+            <header class="d-flex flex-wrap align-items-center justify-content-center  mb-4 border-bottom fixed-top">
                 <!-- justify-content-md-between - we removed this feature -->
 
-                <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
+                <a id="check" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
                     <img width="69" height="75" class="py-2" src="Images/Logo.png" />
                 </a>
-
                 <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 text-white">
                     <li ><a id="home" href="#" class="nav-link px-4 py-4 link-light ">Home </a></li>
                     <li ><a href="#" id="pages" class="nav-link px-4 py-4 link-light">pages</a></li>
@@ -38,7 +37,7 @@
                 </div>
             </header>
         </div>
-        <h1>Creatives</h1>
+        <h1 id="creative">Creatives</h1>
         <p>Power by psdfreebies.com</p>
 
 
@@ -54,7 +53,7 @@
     <div class="blue-bg text-center">
         <h3>W</h3>
         <p>We are an awesome agency</p>
-        <div class="row align-baseline">
+        <div class="row align-baseline" id="feature">
             <div class="col-md-3 mb-5">
                 <i class="bi bi-pencil-square"></i>
                 <h2>Feature One</h2>
@@ -111,7 +110,7 @@
 
     </div>
     <div class="dog">
-        <article class="container ">
+        <article class="container " >
             <div class="row">
                 <div class="col-12 col-md-6 my-auto">
                     <h5 class="text-light">
@@ -124,7 +123,7 @@
                         <li>Different headers & Layout</li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 " id="phone-img">
                     <img src="Images/Phone.png" />
                 </div>
             </div>
@@ -231,9 +230,9 @@
     </div>
 
     <!--end footer-->
-
     <script src="Style/Bootstrap/js/jquery-3.6.3.min.js"></script>
     <script src="Style/Bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="js/scrollanimate.js"></script>
     <script src="js/JavaScript.js"></script>
     <script>
         $(function () {

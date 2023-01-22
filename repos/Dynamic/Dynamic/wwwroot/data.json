@@ -1,0 +1,35 @@
+[
+  {
+    "id": 10,
+    "name": "ahmad",
+    "account": {
+      "full": "ahmad khalid",
+      "address": [
+        {
+          "street": "1"
+        },
+        {
+          "street": "2"
+        }
+      ],
+      "age": 22
+    }
+  },
+
+  {
+    "id": 11,
+    "name": "ahmad",
+    "account": {
+      "full": "zaqi omar",
+      "address": [
+        {
+          "street": "3666"
+        },
+        {
+          "street": "3688"
+        }
+      ],
+      "age": 29
+    }
+  }
+]

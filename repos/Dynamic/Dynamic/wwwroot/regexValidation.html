@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Style/Bootstrap/css/bootstrap.css" rel="stylesheet" />
+    
+</head>
+<body>
+
+    <input type="text" name="name" id="txtemail" class="form-control" value="" />
+
+
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="Style/Bootstrap/js/bootstrap.bundle.js"></script>
+
+    <script>
+        var regex = /[a-zA-Z0-9._%+-]+@(hotmail|live|gmail)(\.com|\.om)/;
+        console.log(regex.test("alfarsi-omani@live.com"));
+
+        $(function () {
+            $("#txtemail").blur(function () {
+                if (regex.test($(this).val())) {
+                    $(this).removeClass("border-danger");
+                    $(this).addClass("border-success");
+                }
+                else {
+                    $(this).removeClass("border-success");
+                    $(this).addClass("border-danger");
+                }
+            })
+        })
+    </script>
+</body>
+</html>

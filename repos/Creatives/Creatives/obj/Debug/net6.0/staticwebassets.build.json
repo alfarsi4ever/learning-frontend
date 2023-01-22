@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r+eC9MquGzcbHI6WiyNXq5QkRvWQXAdAosEV/gB/ZSk=",
+  "Hash": "4aWWEgLHjR04TMrkK3XQIp2fg3MH81ryH+dvNgZo1qQ=",
   "Source": "Creatives",
   "BasePath": "_content/Creatives",
   "Mode": "Default",
@@ -612,6 +612,23 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
+      "Identity": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\js\\JavaScript.js",
+      "SourceId": "Creatives",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\",
+      "BasePath": "_content/Creatives",
+      "RelativePath": "js/JavaScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\JavaScript.js"
+    },
+    {
       "Identity": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\js\\jquery.transit.min.js",
       "SourceId": "Creatives",
       "SourceType": "Discovered",
@@ -644,6 +661,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\js\\scrollanimate.js",
+      "SourceId": "Creatives",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\",
+      "BasePath": "_content/Creatives",
+      "RelativePath": "js/scrollanimate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scrollanimate.js"
     },
     {
       "Identity": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.css",

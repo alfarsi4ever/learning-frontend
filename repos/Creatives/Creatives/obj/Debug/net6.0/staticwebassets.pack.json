@@ -357,6 +357,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\js\\JavaScript.js"
+    },
+    {
       "Id": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
     },
@@ -367,6 +371,10 @@
     {
       "Id": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\js\\jquery.transit.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.transit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user2\\source\\repos\\Creatives\\Creatives\\wwwroot\\js\\scrollanimate.js",
+      "PackagePath": "staticwebassets\\js\\scrollanimate.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Creatives.Microsoft.AspNetCore.StaticWebAssets.props",

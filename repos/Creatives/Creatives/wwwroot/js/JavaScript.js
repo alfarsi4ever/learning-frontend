@@ -17,6 +17,7 @@
         $("html,body").animate({
             "scrollTop": "0"
         });
+        $("header").removeclass("bg-header-linear");
     });
 
     $("#pages").click(function () {
@@ -24,6 +25,7 @@
         $('html,body').animate({
             "scrollTop": "879px"
         });
+        $("header").addclass("bg-header-linear");
     });
     $("#ftr").click(function () {
 

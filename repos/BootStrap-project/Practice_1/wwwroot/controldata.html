@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="Style/Bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <input type="text" name="name" id="t1" value="" />
+    <input type="radio" name="name" id="r1" value="" />
+    <div id="fullname" style="border:1px solid black">Ammar Yaser</div>
+    <h2>front End</h2>
+    <div id="output">
+
+    </div>
+    Output 2:
+    <div id="output2">
+
+    </div>
+    <input type="email" name="name" id="txtemail" value="" />
+    <script src="Js/js/jquery-3.6.0.min.js"></script>
+    <script src="Js/js/bootstrap.bundle.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#fullname").mouseover(function () {
+                alert($("#fullname").text());
+            });
+            $(function () {
+                $("#t1").blur(function () {
+                    $("#r1").click(function () {
+                        var name = $("#t1").val(); //get val from input text
+                        $("#output").html("<h5> HTML Output 1: <br> " + name + "</h5 > "); //set data into div
+                        $("#output2").text(name); //set data into div
+                        $("#txtemail").val(name);//set data into text
+
+                    })
+
+
+                });
+                
+            });
+            $("#fullname").mouseover(function () {
+                alert($("#fullname").text());
+            });
+        });
+        document.getElementById("t1").value = "new value"
+        document.getElementById("output").inndertext = "new text"
+        document.getElementById("output").innderhtml = "<i>ammar</i>"
+
+    </script>
+
+</body>
+</html>
