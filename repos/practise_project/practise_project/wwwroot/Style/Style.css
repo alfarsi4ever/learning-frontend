@@ -25,7 +25,7 @@ p {
 }
 
 .navi {
-    min-height: 95px
+    min-height: 60px;
 }
 
 .nav-link {
@@ -40,12 +40,7 @@ ul li:first-child a {
     color: #ffc000;
 }
 
-.front {
-    min-height: 810px;
-    background: url('../image/repace.png') no-repeat;
-    background-size: cover;
-    margin-top: auto;
-}
+    
 
 
 
@@ -65,7 +60,7 @@ h1 {
 }
 
 .constra {
-    /*margin: auto auto;*/
+    margin: auto auto;
     margin-top: 18%;
 }
 
@@ -79,7 +74,7 @@ h2 span:first-child {
     margin-bottom:38px;
 }
 .we-offer > p{
-    width:712px;
+    width:44%;
     
     margin-bottom:62px;
 }
@@ -90,6 +85,7 @@ h2 span:first-child {
     background-color: #2d3e50;
     color: white;
     text-align: center;
+
 }
 
 

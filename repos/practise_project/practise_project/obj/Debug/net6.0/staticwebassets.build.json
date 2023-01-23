@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vOtsP+sz5BfULjBg47fqCe8BRuPvYWZdCgisn8QxGHQ=",
+  "Hash": "9Wc2jE2tTvFApuDZjhfRiDy9iW8qbQqFbG+vrQ8DLDk=",
   "Source": "ConstructLandingPage_project",
   "BasePath": "_content/ConstructLandingPage_project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ConstructLandingPage_project\\wwwroot",
       "Source": "ConstructLandingPage_project",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Apache License.txt",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Apache License.txt",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Apache License.txt",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Apache License.txt"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Gotham Bold.otf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Gotham Bold.otf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Gotham Bold.otf",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Gotham Bold.otf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Gotham Book.otf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Gotham Book.otf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Gotham Book.otf",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Gotham Book.otf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Gotham Medium.otf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Gotham Medium.otf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Gotham Medium.otf",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Gotham Medium.otf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\readme.txt",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\readme.txt",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/readme.txt",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\readme.txt"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Black.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Black.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-Black.ttf",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-BlackItalic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-BlackItalic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-BlackItalic.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-BlackItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Bold.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Bold.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-Bold.ttf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-BoldCondensed.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-BoldCondensed.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-BoldCondensed.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-BoldCondensed.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-BoldItalic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-BoldItalic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-BoldItalic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Bold.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Bold.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/RobotoCondensed-Bold.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\RobotoCondensed-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-BoldItalic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-BoldItalic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/RobotoCondensed-BoldItalic.ttf",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\RobotoCondensed-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Italic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Italic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/RobotoCondensed-Italic.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\RobotoCondensed-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Light.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Light.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/RobotoCondensed-Light.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\RobotoCondensed-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-LightItalic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-LightItalic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/RobotoCondensed-LightItalic.ttf",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\RobotoCondensed-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Regular.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\RobotoCondensed-Regular.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/RobotoCondensed-Regular.ttf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\RobotoCondensed-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Italic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Italic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-Italic.ttf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Light.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Light.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-Light.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-LightItalic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-LightItalic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-LightItalic.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Medium.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Medium.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-Medium.ttf",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-MediumItalic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-MediumItalic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-MediumItalic.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-MediumItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Regular.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Regular.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-Regular.ttf",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Thin.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-Thin.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-Thin.ttf",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-ThinItalic.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\fonts\\Roboto-ThinItalic.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "fonts/Roboto-ThinItalic.ttf",
       "AssetKind": "All",
@@ -425,10 +425,44 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-ThinItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\image\\paint-brush-brush.svg",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "BasePath": "_content/ConstructLandingPage_project",
+      "RelativePath": "image/paint-brush-brush.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\paint-brush-brush.svg"
+    },
+    {
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\image\\repace.png",
+      "SourceId": "ConstructLandingPage_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "BasePath": "_content/ConstructLandingPage_project",
+      "RelativePath": "image/repace.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\repace.png"
+    },
+    {
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\index.html",
+      "SourceId": "ConstructLandingPage_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\js\\JavaScript.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\js\\JavaScript.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "js/JavaScript.js",
       "AssetKind": "All",
@@ -476,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\js\\JavaScript.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\js\\jquery.transit.min.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\js\\jquery.transit.min.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "js/jquery.transit.min.js",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.transit.min.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\js\\jquery-3.6.0.min.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "js/jquery-3.6.0.min.js",
       "AssetKind": "All",
@@ -510,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.6.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\js\\scrollanimate.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\js\\scrollanimate.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "js/scrollanimate.js",
       "AssetKind": "All",
@@ -527,10 +561,27 @@
       "OriginalItemSpec": "wwwroot\\js\\scrollanimate.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\slider.html",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "BasePath": "_content/ConstructLandingPage_project",
+      "RelativePath": "slider.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\slider.html"
+    },
+    {
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.css",
+      "SourceId": "ConstructLandingPage_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -544,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -561,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -578,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -595,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -612,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -629,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -646,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -663,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -680,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -697,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -714,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -731,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -748,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -765,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -782,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -799,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -816,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -833,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -850,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -867,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -884,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -901,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -918,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -935,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -952,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -969,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -986,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1020,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1037,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1054,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1088,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1105,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1122,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1139,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1156,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1173,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1190,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1207,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -1224,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.js.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1241,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.min.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1258,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1275,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\jquery-3.6.3.min.js",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Bootstrap\\js\\jquery-3.6.3.min.js",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Bootstrap/js/jquery-3.6.3.min.js",
       "AssetKind": "All",
@@ -1292,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Bootstrap\\js\\jquery-3.6.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\all.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\all.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/all.css",
       "AssetKind": "All",
@@ -1309,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\all.css"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1326,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1343,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1360,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1377,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1394,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1411,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -1428,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\fontawsome\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/fontawsome/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -1445,10 +1496,44 @@
       "OriginalItemSpec": "wwwroot\\Style\\fontawsome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Style.css",
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Media-query.css",
       "SourceId": "ConstructLandingPage_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "BasePath": "_content/ConstructLandingPage_project",
+      "RelativePath": "Style/Media-query.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\Media-query.css"
+    },
+    {
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\slider-style.css",
+      "SourceId": "ConstructLandingPage_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
+      "BasePath": "_content/ConstructLandingPage_project",
+      "RelativePath": "Style/slider-style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\slider-style.css"
+    },
+    {
+      "Identity": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\Style\\Style.css",
+      "SourceId": "ConstructLandingPage_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\wwwroot\\",
       "BasePath": "_content/ConstructLandingPage_project",
       "RelativePath": "Style/Style.css",
       "AssetKind": "All",

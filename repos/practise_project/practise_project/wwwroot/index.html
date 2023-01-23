@@ -5,23 +5,24 @@
     <title>Construct Landing Page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="Style/Bootstrap/css/bootstrap.css" rel="stylesheet" />
-    <link href="Style/Bootstrap/css/bootstrap.rtl.min.css" rel="stylesheet" />
+    <!--<link href="Style/Bootstrap/css/bootstrap.rtl.min.css" rel="stylesheet" />-->
     <link href="Style/fontawsome/webfonts/all.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <link href="Style/Style.css" rel="stylesheet" />
-
+    <link href="Style/Media-query.css" rel="stylesheet" />
+    <link href="Style/slider-style.css" rel="stylesheet" />
+    
 </head>
 <body>
-
     <header class="">
         <div class="contact-header">
             <div class="container">
-                <ul class="row d-flex flex-wrap ">
-                    <li class="col-sm-12 col-md-6 d-flex flex-wrap d-inline  text-center">
+                <ul class="row d-flex flex-wrap mx-sm-auto text-center ">
+                    <li class="col-sm-12 col-md-6  mx-auto ">
                         <i class="fa-solid fa-envelope "></i>
-                        <p class="text-light p-3">Example@company.com</p>
+                        <span class="text-light p-3">Example@company.com</span>
                     </li>
-                    <li class="col-sm-12 col-md-6 text-light  text-center">
+                    <li class="col-sm-12 col-md-6 text-light mx-sm-auto text-center">
                         <p class="p-3">+968-91141055</p>
                     </li>
 
@@ -30,8 +31,8 @@
         </div>
 
         <div class="container navi">
-            <div class="d-flex flex-wrap py-3 mb-4">
-                <div class="d-flex col-4 text-dark text-decoration-none">
+            <div class="d-flex flex-wrap my-3 ">
+                <div class="d-flex col-4 text-dark text-decoration-none mx-auto">
                     <span class="fs-4 title-color">cons</span>
                     <span class="fs-4">truct</span>
                 </div>
@@ -42,7 +43,7 @@
                     <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">About</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link"><i class="fa-solid fa-magnifying-glass"></i></a></li>
+                    <li class="nav-item mx-auto mx-md-auto"><a href="#" class="nav-link"><i class="fa-solid fa-magnifying-glass"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -50,33 +51,67 @@
 
     </header>
 
-    <div class=" front">
 
-        <div class="container">
-            <div class="row d-flex flex-wrap justify-content-center text-center ">
-                <i class="col-2 chevron"><</i>
+    <div id="myCarousel" class="carousel slide front" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true"></button>
+            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2" class=""></button>
+            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3" class=""></button>
 
-                <div class="col-8 text-center constra">
-                    <h1><span>Constuction</span><span class="h1 text-light"> Free Psd</span></h1>
-                    <div class="col-12">
-                        <p class="h1 text-light">Template</p>
+
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+
+                <div class="container">
+                    <div class="carousel-caption text-start">
+                        <h1>Example headline.</h1>
+                        <p>Some representative placeholder content for the first slide of the carousel.</p>
+                        <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
                     </div>
-                    <p class="col-10 text-white mx-auto">Construction Bootstrap Template is a responsive, clean and modern designed HTML5 template for landing pages.</p>
-
-                    <input class="col-4 btn btn-warning rounded-pill text-light mt-3" type="button" name="name" value="Click" />
                 </div>
-
-                <i class="col-2 chevron">></i>
             </div>
+            <div class="carousel-item">
 
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2" class=""></button>
-                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3" class="active" aria-current="true"></button>
+                <div class="container">
+                    <div class="carousel-caption">
+
+                        
+                        <div class=" constra">
+                            <h1><span class="mx-sm-auto">Constuction</span><span class="h1 text-light"> Free Psd</span></h1>
+                            <div class="col-12">
+                                <p class="h1 text-light">Template</p>
+                            </div>
+                            <p class="col-10 text-white mx-auto">Construction Bootstrap Template is a responsive, clean and modern designed HTML5 template for landing pages.</p>
+
+                            <input class="col-4 btn btn-warning rounded-pill text-light mt-3" type="button" name="name" value="Click" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+
+                <div class="container">
+                    <div class="carousel-caption text-end">
+                        <h1>One more for good measure.</h1>
+                        <p>Some representative placeholder content for the third slide of this carousel.</p>
+                        <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+                    </div>
+                </div>
             </div>
         </div>
-
+        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
+
+
+
     <div class="we-offer container text-center">
         <label>we offer</label>
         <h2><span>Welcome</span><span> To Free Psd construction Template</span></h2>
@@ -89,7 +124,7 @@
 
             </div><!-- /.col-lg-4 -->
             <div class="col-sm-12 col-sm-6 col-md-6 col-lg-3 ">
-            
+
                 <i class="fa-solid fa-brush my-icon my-3"></i>
                 <h2 class="fw-normal ">Creative Ideas</h2>
                 <p class="fetur-para">Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
@@ -110,7 +145,7 @@
             <!-- /.col-lg-4 -->
         </div>
     </div>
-    
+
 
 
 

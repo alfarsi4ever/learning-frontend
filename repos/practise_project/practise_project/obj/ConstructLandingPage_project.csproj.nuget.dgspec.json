@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj": {}
+    "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj": {
+    "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj",
+        "projectUniqueName": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj",
         "projectName": "ConstructLandingPage_project",
-        "projectPath": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj",
-        "packagesPath": "C:\\Users\\user2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user2\\source\\repos\\practise_project\\practise_project\\obj\\",
+        "projectPath": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\ConstructLandingPage_project.csproj",
+        "packagesPath": "C:\\Users\\iM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iM\\Desktop\\my front end project\\learning-frontend\\repos\\practise_project\\practise_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
