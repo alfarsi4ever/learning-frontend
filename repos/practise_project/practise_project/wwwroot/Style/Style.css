@@ -8,7 +8,7 @@ p {
 
 .contact-header {
     background: #2d3e50;
-    height: 60px;
+    min-height: 60px;
 }
 
     .contact-header ul {
@@ -36,9 +36,10 @@ p {
     font-weight: bold;
 }
 
-    ul li:first-child a {
-        color: #ffc000;
-    }
+ul li:first-child a {
+    color: #ffc000;
+}
+
 .front {
     min-height: 810px;
     background: url('../image/repace.png') no-repeat;
@@ -46,17 +47,76 @@ p {
     margin-top: auto;
 }
 
-    
+
 
 h1 {
     color: #ffc000;
     font-size: 72px
 }
+
 .h1 {
     font-size: 72px
 }
+
 .chevron {
     font-size: 42px;
     color: #ffc000;
-    margin-top:25%;
+    margin-top: 25%;
+}
+
+.constra {
+    /*margin: auto auto;*/
+    margin-top: 18%;
+}
+
+/*-------------------------------------*/
+.we-offer {
+    margin-top:124px;
+    margin-bottom:124px;
+}
+h2 span:first-child {
+    color: #ffc000;
+    margin-bottom:38px;
+}
+.we-offer > p{
+    width:712px;
+    
+    margin-bottom:62px;
+}
+
+.feature > div {
+    padding: 62px 24px;
+    border: 10px solid white;
+    background-color: #2d3e50;
+    color: white;
+    text-align: center;
+}
+
+
+        .feature div:hover {
+            background-color: white;
+            color: black;
+        }
+
+        .feature div i {
+            width: 80px;
+            height: 80px;
+            font-size: 36px;
+            padding: 22px;
+            background-color: white;
+            color: #ffc000;
+        }
+
+        .feature div:hover > i {
+            background-color: #ffc000;
+            color: white;
+        }
+
+        
+
+
+.my-icon {
+    border-radius: 50%;
+    padding: 10px;
+    background: #ffc000;
 }
